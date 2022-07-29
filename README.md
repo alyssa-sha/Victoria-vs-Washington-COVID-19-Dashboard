@@ -43,13 +43,7 @@
     - John Hopkins Data Set -> 
     - Bokeh -> https://bokeh.org/
     - Dash Lib -> TBD
-    
-- Milestones
-  - Week 1 2020-09-19 - Assign roles, work out the sprints, finish data collection, preprocessing scripts
-  - Week 2 2020-09-26 - Clean data, Preliminary data analysis, Write Unitest, Create a data visualization framework
-  - Week 3 2020-10-03 - Complete data analysis, Finish Unitest, Continue to build data visualization models 
-  - Week 4 2020-10-10 - Finish Dashboard, Finish 4-page report
- 
+   
    
 - References
   - python toolbox for visualizing geographical data and making maps   https://github.com/andrea-cuttone/geoplotlib
