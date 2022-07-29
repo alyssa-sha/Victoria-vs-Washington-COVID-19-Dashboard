@@ -1,12 +1,5 @@
 - Working title: **Victoria COVID-19 Dashboard**
 
-- Group Members
-    - Atif Mahmood u4310482 u4310482@anu.edu.au (Vis)
-    - Courtney Cusch u5504004 u5504004@anu.edu.au (Ana)
-    - Rachael Eddowes u4270447 u4270447@anu.edu.au (Ana)
-    - Shuang Sha u6922557 u6922557@anu.edu.au (Ing)
-    - Jeff King u7143718 u7143718@anu.edu.au (Vis)
-
 - Overview
 
     After successfully controlling the spread of COVID-19 from January to June 2020, 
