@@ -1,0 +1,30 @@
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+# Ignore user-specific stuff
+**/.idea/workspace.xml
+**/.idea/tasks.xml
+.idea/comp7230-2020-group-project.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+
+# Ignore pycharm config files
+.mypy_cache
+__pycache__
+/Figures/dashboard
+/Data/Data_Analysis_Task1.py
+/Data/Data_Analysis_Task2.py
+/Data/Data_Analysis_Task2_agegroup without postcode.py
+/Data/Data_Analysis_Task3_Education.py
+/Data/Data_Analysis_Task3_Education_Test.py
+/Data/Data_Analysis_Task_5_Gender.py
+/Data/gender.html
+/Data/part1_example.html
+/Data/part2_age_group.html
+/Data/part2_example.html
+/Data/Task3.html
+/Data/Task3_pie.html
+/Data/~$Coronavirus_COVID-19_-_VIC_AU_Exposure_sites_Timeline_data.xlsx
+/Data/~$Washington_cases&deaths by county.xlsx
+/Bokeh Dashboard/Generate Updated/Bokeh_Dashboard.html
+/Code/part2_age_group.html
